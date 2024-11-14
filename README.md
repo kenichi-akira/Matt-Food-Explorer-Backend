@@ -6,7 +6,7 @@
   Food Explorer
 </h1>
 
-> Cardápio digital para um restaurante fictício
+> O que é: Um cardápio digital para um restaurante fictício
 
 <p align="center">
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,20 +26,20 @@
 
 O projeto Food Explorer é o desafio final da trilha Explorer/Fullstack da Rocketseat. Ele consiste em uma aplicação de cardápio digital para um restaurante fictício, permitindo a visualização e gestão de pedidos tanto para clientes quanto para administradores.
 
-Este é o repositório do backend da aplicação. O front-end, responsável pela interface do usuário, está disponível [aqui](https://github.com/placeholder/frontend-link).
+Este é o repositório do backend da aplicação. O front-end, responsável pela interface do usuário, está disponível [aqui](https://github.com/kenichi-akira/Matt-Food-Explorer-Frontend).
 
 <h2 id="structure">📌 Estrutura</h2>
 
 A estrutura do banco de dados inclui as seguintes tabelas:
 
+- Pratos  
+- Ingredientes  
+- Migrações (knex_migrations)  
+- Controle de Migrações (knex_migrations_lock)  
+- Pedidos  
+- Itens dos Pedidos  
+- Sequência do SQLite (sqlite_sequence)  
 - Usuários
-- Pratos
-- Ingredientes dos pratos
-- Favoritos
-- Carrinhos
-- Itens dos carrinhos
-- Pedidos
-- Itens dos pedidos
 
 <h2 id="features">✨ Funcionalidades</h2>
 
@@ -75,17 +75,15 @@ O projeto tem como dependências:
 - Multer
 - PM2
 - SQLite
-- Jest para testes automatizados
 
 <h2 id="usage">💡 Utilização</h2>
 
-O back-end do projeto está hospedado no endereço https://placeholder-backend-link.com. 
+O back-end do projeto está hospedado no endereço [(https://matt-food-explorer-backend.onrender.com)](https://matt-food-explorer-backend.onrender.com)
 
 ⚠️ **Importante**: Este projeto utiliza o Render, que é hospedagem gratuita para o back-end, enquanto o Frontend se encontra hospedado no Netlify. 
 Portanto, pode haver atrasos no tempo de resposta do servidor caso esteja se tentando conectar no backend. O que pode demorar até mais de um minuto.
 
 Você também pode executá-lo em sua máquina local. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
-
 
 
 1. Clone o projeto:
