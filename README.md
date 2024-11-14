@@ -14,6 +14,7 @@
   <a href="#features">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#install">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#env-variables">Variáveis de Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">Licença</a>
 </p>
@@ -80,11 +81,13 @@ O projeto tem como dependências:
 
 O back-end do projeto está hospedado no endereço [(https://matt-food-explorer-backend.onrender.com)](https://matt-food-explorer-backend.onrender.com)
 
-⚠️ **Importante**: Este projeto utiliza o Render, que é hospedagem gratuita para o back-end, enquanto o Frontend se encontra hospedado no Netlify. 
-Portanto, pode haver atrasos no tempo de resposta do servidor caso esteja se tentando conectar no backend. O que pode demorar até mais de um minuto.
+⚠️ **Importante!!!**: O back-end deste projeto está hospedado gratuitamente no Render, enquanto o front-end está no Netlify. Por esse motivo, a conexão com o servidor back-end pode apresentar alguns atrasos, levando até mais de um minuto para responder.
 
-Você também pode executá-lo em sua máquina local. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
 
+<h2 id="install">🛠 Instalação</h2>
+
+
+É possível rodar o projeto localmente. Antes de começar, verifique se o `Node.js` e o `npm` estão instalados e siga os passos abaixo.
 
 1. Clone o projeto:
 
@@ -109,7 +112,7 @@ Você também pode executá-lo em sua máquina local. Certifique-se de ter o `No
 
    O terminal mostrará o endereço local em que a aplicação está rodando. Para acessá-la, basta inserir esse endereço em seu navegador.
 
-⚠️ AVISO!!! Crie um arquivo .env seguindo o modelo fornecido em .env.example e insira os valores corretos para as variáveis AUTH_SECRET e PORT.
+⚠️ **AVISO!!!** Crie um arquivo .env seguindo o modelo fornecido em .env.example e insira os valores corretos para as variáveis AUTH_SECRET e PORT.
 
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
 
