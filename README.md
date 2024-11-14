@@ -43,21 +43,21 @@ A estrutura do banco de dados inclui as seguintes tabelas:
 
 <h2 id="features">✨ Funcionalidades</h2>
 
-A aplicação possui as seguintes funcionalidades:
-
 ### Funcionalidades Gerais
-- Cadastro de usuário no banco de dados
-- Autenticação de usuários com login
-- Visualização de pratos
-- Busca de pratos pelo nome e por ingredientes
+- Registro de usuários no banco de dados
+- Login e autenticação de usuários
+- Exibição dos pratos disponíveis
+- Pesquisa de pratos por nome ou ingredientes
 
-### Funcionalidades Exclusivas para Clientes
-- Favoritar pratos e visualizar a lista de pratos favoritos
-- Visualizar o total do pedido com valores detalhados, excluir produtos do pedido e criar uma ordem de pedido
+### Funcionalidades Específicas para Clientes
+- Adicionar pratos aos favoritos e visualizar a lista de favoritos
+- Visualizar o resumo do pedido com valores detalhados, remover itens do pedido e gerar uma nova ordem
 
-### Funcionalidades Exclusivas para Administradores
-- Criar, editar e excluir pratos
-- Alterar o status dos pedidos (ex.: Em andamento, Concluído)
+### Funcionalidades Específicas para Administradores
+- Adicionar, editar e remover pratos
+- Atualizar o status dos pedidos dos pratos por status de entrega.
+
+Essa versão reformulada mantém o mesmo sentido, com uma redação ligeiramente diferente.
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
