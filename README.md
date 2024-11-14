@@ -109,7 +109,7 @@ Você também pode executá-lo em sua máquina local. Certifique-se de ter o `No
 
    O terminal mostrará o endereço local em que a aplicação está rodando. Para acessá-la, basta inserir esse endereço em seu navegador.
 
-⚠️ Importante: Crie um arquivo .env de acordo com o arquivo .env.example e preencha os campos AUTH_SECRET e PORT com as informações adequadas.
+⚠️ AVISO!!! Crie um arquivo .env seguindo o modelo fornecido em .env.example e insira os valores corretos para as variáveis AUTH_SECRET e PORT.
 
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
 
