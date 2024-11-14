@@ -45,18 +45,18 @@ A estrutura do banco de dados inclui as seguintes tabelas:
 <h2 id="features">✨ Funcionalidades</h2>
 
 ### Funcionalidades Gerais
-- Registro de usuários no banco de dados
-- Login e autenticação de usuários
-- Exibição dos pratos disponíveis
-- Pesquisa de pratos por nome ou ingredientes
+    Registro de usuários no banco de dados
+    Login e autenticação de usuários
+    Exibição dos pratos disponíveis
+    Pesquisa de pratos por nome ou ingredientes
 
 ### Funcionalidades Específicas para Clientes
-- Adicionar pratos aos favoritos e visualizar a lista de favoritos
-- Visualizar o resumo do pedido com valores detalhados, remover itens do pedido e gerar uma nova ordem
+    Adicionar pratos aos favoritos e visualizar a lista de favoritos
+    Visualizar o resumo do pedido com valores detalhados, remover itens do pedido e gerar uma nova ordem
 
 ### Funcionalidades Específicas para Administradores
-- Adicionar, editar e remover pratos
-- Atualizar o status dos pedidos dos pratos por status de entrega.
+    Adicionar, editar e remover pratos
+    Atualizar o status dos pedidos dos pratos por status de entrega.
 
 Essa versão reformulada mantém o mesmo sentido, com uma redação ligeiramente diferente.
 
