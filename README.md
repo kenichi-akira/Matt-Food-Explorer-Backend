@@ -6,7 +6,7 @@
   Food Explorer
 </h1>
 
-> O que é: Um cardápio digital para um restaurante fictício
+    O que é: Um cardápio digital para um restaurante fictício
 
 <p align="center">
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
