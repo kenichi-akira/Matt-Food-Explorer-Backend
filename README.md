@@ -88,24 +88,24 @@ Você também pode executá-lo em sua máquina local. Certifique-se de ter o `No
 
 1. Clone o projeto:
 
-```bash
-$ git clone https://github.com/placeholder/backend-repo-link.git
-
-    Acesse a pasta do projeto:
-
-$ cd diretorio-do-projeto
-
-    Instale as dependências:
-
-$ npm install
-
-    Execute as migrações do banco de dados:
-
-$ npm run migrate
-
-    Inicie o servidor:
-
-$ npm start
+   ```bash
+   $ git clone https://github.com/placeholder/backend-repo-link.git
+   
+       Acesse a pasta do projeto:
+   
+   $ cd diretorio-do-projeto
+   
+       Instale as dependências:
+   
+   $ npm install
+   
+       Execute as migrações do banco de dados:
+   
+   $ npm run migrate
+   
+       Inicie o servidor:
+   
+   $ npm start
 
 ⚠️ Importante: Crie um arquivo .env de acordo com o arquivo .env.example e preencha os campos AUTH_SECRET e PORT com as informações adequadas.
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
@@ -129,4 +129,4 @@ O repositório inclui o arquivo Insomnia_Requests_FoodExplorer.json, que pode se
 
 Este projeto está sob a licença MIT.
 
-Feito com 💜 por Matthews Barcellos 👋🏾
+Feito por Matthews Barcellos 👋🏾
