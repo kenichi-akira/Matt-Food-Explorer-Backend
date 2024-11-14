@@ -81,7 +81,7 @@ O projeto tem como dependências:
 
 O back-end do projeto está hospedado no endereço [(https://matt-food-explorer-backend.onrender.com)](https://matt-food-explorer-backend.onrender.com)
 
-⚠️ **Importante!!!**: O back-end deste projeto está hospedado gratuitamente no Render, enquanto o front-end está no Netlify. Por esse motivo, a conexão com o servidor back-end pode apresentar alguns atrasos, levando até mais de um minuto para responder.
+⚠️ **Importante!!!** O back-end deste projeto está hospedado gratuitamente no Render, enquanto o front-end está no Netlify. Por esse motivo, a conexão com o servidor back-end pode apresentar alguns atrasos, levando até mais de um minuto para responder.
 
 
 <h2 id="install">🛠 Instalação</h2>
