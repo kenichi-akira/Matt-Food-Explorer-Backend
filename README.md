@@ -96,24 +96,24 @@ O back-end do projeto está hospedado no endereço [(https://matt-food-explorer-
 
 1. Clone o projeto:
 
-   ```bash
+   
    $ git clone https://github.com/kenichi-akira/Matt-Food-Explorer-Backend/tree/main
    
-       Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
    
-   $ cd diretorio-do-projeto
+       $ cd diretorio-do-projeto
    
-       Instale as dependências:
+3. Instale as dependências:
    
-   $ npm install
+       $ npm install
    
-       Execute as migrações do banco de dados:
+4. Execute as migrações do banco de dados:
    
-   $ npm run migrate
+       $ npm run migrate
    
-       Inicie o servidor:
+5. Inicie o servidor:
    
-   $ npm start
+       $ npm start
 
    O terminal mostrará o endereço local em que a aplicação está rodando. Para acessá-la, basta inserir esse endereço em seu navegador.
 
