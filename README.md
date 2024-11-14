@@ -15,7 +15,6 @@
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#env-variables">Variáveis de Ambiente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tests">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">Licença</a>
 </p>
 
@@ -82,14 +81,17 @@ O projeto tem como dependências:
 
 O back-end do projeto está hospedado no endereço https://placeholder-backend-link.com. 
 
-⚠️ **Importante**: Este projeto utiliza uma hospedagem gratuita para o back-end, portanto, pode haver atrasos no tempo de resposta do servidor.
+⚠️ **Importante**: Este projeto utiliza o Render, que é hospedagem gratuita para o back-end, enquanto o Frontend se encontra hospedado no Netlify. 
+Portanto, pode haver atrasos no tempo de resposta do servidor caso esteja se tentando conectar no backend. O que pode demorar até mais de um minuto.
 
 Você também pode executá-lo em sua máquina local. Certifique-se de ter o `Node.js` e o `npm` instalados antes de prosseguir com as etapas abaixo:
+
+
 
 1. Clone o projeto:
 
    ```bash
-   $ git clone https://github.com/placeholder/backend-repo-link.git
+   $ git clone https://github.com/kenichi-akira/Matt-Food-Explorer-Backend/tree/main
    
        Acesse a pasta do projeto:
    
@@ -107,6 +109,8 @@ Você também pode executá-lo em sua máquina local. Certifique-se de ter o `No
    
    $ npm start
 
+   O terminal mostrará o endereço local em que a aplicação está rodando. Para acessá-la, basta inserir esse endereço em seu navegador.
+
 ⚠️ Importante: Crie um arquivo .env de acordo com o arquivo .env.example e preencha os campos AUTH_SECRET e PORT com as informações adequadas.
 
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
@@ -120,4 +124,4 @@ O projeto usa variáveis de ambiente definidas no arquivo .env. As principais va
 
 Este projeto está sob a licença MIT.
 
-Feito por Matthews Barcellos 👋🏾
+Feito por Matthews Barcellos.
