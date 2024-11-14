@@ -108,6 +108,7 @@ Você também pode executá-lo em sua máquina local. Certifique-se de ter o `No
    $ npm start
 
 ⚠️ Importante: Crie um arquivo .env de acordo com o arquivo .env.example e preencha os campos AUTH_SECRET e PORT com as informações adequadas.
+
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
 
 O projeto usa variáveis de ambiente definidas no arquivo .env. As principais variáveis são:
@@ -115,16 +116,6 @@ O projeto usa variáveis de ambiente definidas no arquivo .env. As principais va
     AUTH_SECRET: utilizada para armazenar o segredo do token JWT.
     PORT: define a porta na qual o projeto será executado.
 
-<h2 id="tests">🏹 Testes</h2>
-
-Para rodar os testes da aplicação, feitos com Jest, use o seguinte comando no terminal, dentro do diretório do projeto:
-
-npm test
-
-Os testes serão executados, e o resultado será exibido no terminal.
-<h2 id="Insomnia">📁 Requisições via Insomnia</h2>
-
-O repositório inclui o arquivo Insomnia_Requests_FoodExplorer.json, que pode ser importado no Insomnia. Isso permite testar todas as requisições da aplicação diretamente no Insomnia.
 <h2 id="license">📝 Licença</h2>
 
 Este projeto está sob a licença MIT.
