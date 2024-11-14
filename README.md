@@ -62,7 +62,7 @@ A aplicação possui as seguintes funcionalidades:
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
-O projeto foi desenvolvido com as seguintes tecnologias:
+O projeto tem como dependências:
 
 - Node.js
 - JavaScript
