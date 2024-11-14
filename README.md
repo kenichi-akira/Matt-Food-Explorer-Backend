@@ -112,7 +112,7 @@ O back-end do projeto está hospedado no endereço [(https://matt-food-explorer-
 
    O terminal mostrará o endereço local em que a aplicação está rodando. Para acessá-la, basta inserir esse endereço em seu navegador.
 
-⚠️ **AVISO!!!** Crie um arquivo .env seguindo o modelo fornecido em .env.example e insira os valores corretos para as variáveis AUTH_SECRET e PORT.
+⚠️ **AVISO!!!** Crie um arquivo .env seguindo o modelo fornecido em .env.example e insira os valores corretos para as variáveis AUTH_SECRET e PORT, se não houver valores o selecionado será default e a porta será a padrão já inserida no código.
 
 <h2 id="env-variables">🔐 Variáveis de Ambiente</h2>
 
